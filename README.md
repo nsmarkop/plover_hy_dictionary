@@ -16,7 +16,7 @@ The same method can be used for updating and uninstalling the plugin.
 
 ## Usage
 
-This plugin is based on the [Plover Python Dictoinary plugin](https://github.com/benoit-pierre/plover_python_dictionary) so you can reference its documentation.
+This plugin is based on the [Plover Python Dictionary plugin](https://github.com/benoit-pierre/plover_python_dictionary) so you can reference its documentation.
 
 The main example directly translated to hy for this plugin:
 
